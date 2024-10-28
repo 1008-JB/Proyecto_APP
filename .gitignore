@@ -163,4 +163,3 @@ cython_debug/
 
 # No hacer caso
 myenv/
-.streamlit/config.toml
